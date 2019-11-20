@@ -1,0 +1,52 @@
+.nav-link{
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.header{
+    font-family: "Pacifico", cursive;
+    text-align: center;
+    font-size: 80px;
+}
+.my-col{
+    background-color: rgb(182, 216, 179);
+    border: 1px solid;
+}
+.my-col1{
+    background-color: rgb(216, 179, 179);
+    border: 1px solid;
+}
+.my-col2{
+    background-color: rgb(216, 214, 179);
+    border: 1px solid;
+}
+.my-col3{
+    background-color: rgb(206, 216, 179);
+    border: 1px solid;
+}
+.my-col4{
+    background-color: rgb(179, 216, 204);
+    border: 1px solid;
+}
+.my-col5{
+    background-color: rgb(179, 206, 216);
+    border: 1px solid;
+}
+.my-col6{
+    background-color: rgb(201, 179, 216);
+    border: 1px solid;
+}
+.my-col7{
+    background-color: rgb(216, 179, 196);
+    border: 1px solid;
+}
+.quotation{
+    font-size: 100px;
+    text-align: center;
+    font-family: "Odibee Sans";
+}
+.quotes{
+    margin-top: -50px;
+    font-family: "Fira Sans Extra Condensed";
+    font-size: 25px;
+    text-align: center;
+}
